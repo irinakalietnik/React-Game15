@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/irinakalietnik/React-Game15/static/css/main.986f1049.css",
-    "main.js": "/irinakalietnik/React-Game15/static/js/main.37b3e159.js",
-    "static/js/453.a5a72b74.chunk.js": "/irinakalietnik/React-Game15/static/js/453.a5a72b74.chunk.js",
-    "index.html": "/irinakalietnik/React-Game15/index.html",
-    "main.986f1049.css.map": "/irinakalietnik/React-Game15/static/css/main.986f1049.css.map",
-    "main.37b3e159.js.map": "/irinakalietnik/React-Game15/static/js/main.37b3e159.js.map",
-    "453.a5a72b74.chunk.js.map": "/irinakalietnik/React-Game15/static/js/453.a5a72b74.chunk.js.map"
+    "main.css": "/React-Game15/static/css/main.986f1049.css",
+    "main.js": "/React-Game15/static/js/main.64658d07.js",
+    "static/js/453.a5a72b74.chunk.js": "/React-Game15/static/js/453.a5a72b74.chunk.js",
+    "index.html": "/React-Game15/index.html",
+    "main.986f1049.css.map": "/React-Game15/static/css/main.986f1049.css.map",
+    "main.64658d07.js.map": "/React-Game15/static/js/main.64658d07.js.map",
+    "453.a5a72b74.chunk.js.map": "/React-Game15/static/js/453.a5a72b74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.986f1049.css",
-    "static/js/main.37b3e159.js"
+    "static/js/main.64658d07.js"
   ]
 }
